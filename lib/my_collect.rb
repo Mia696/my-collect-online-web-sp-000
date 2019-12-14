@@ -1,5 +1,4 @@
-def my_collect(array) # put argument(s) here
-  # code here
+def my_collect(array) 
   i = 0
   result = []
 
